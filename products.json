@@ -1,0 +1,7 @@
+[
+  { "name": "Milk", "category": "Food", "price": 7.5, "quantity": 20 },
+  { "name": "Headphones", "category": "Electronics", "price": 120.0, "quantity": 3 },
+  { "name": "Notebook", "category": "Office", "price": 15.0, "quantity": 40 },
+  { "name": "Coffee Machine", "category": "Electronics", "price": 350.0, "quantity": 2 }
+]
+
