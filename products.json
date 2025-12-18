@@ -1,7 +1,7 @@
-[
-  { "name": "Milk", "category": "Food", "price": 7.5, "quantity": 20 },
-  { "name": "Headphones", "category": "Electronics", "price": 120.0, "quantity": 3 },
-  { "name": "Notebook", "category": "Office", "price": 15.0, "quantity": 40 },
-  { "name": "Coffee Machine", "category": "Electronics", "price": 350.0, "quantity": 2 }
-]
+{
+  "v1": { "vacancyTitle": "Android Developer", "salary": 7000, "noOfApplicants": 12, "vacancyStartDate": "2025-01-10" },
+  "v2": { "vacancyTitle": "Java Intern", "salary": 3000, "noOfApplicants": 45, "vacancyStartDate": "2025-02-01" },
+  "v3": { "vacancyTitle": "QA Tester", "salary": 4000, "noOfApplicants": 22, "vacancyStartDate": "2025-01-20" },
+  "v4": { "vacancyTitle": "Android Developer", "salary": 8000, "noOfApplicants": 8, "vacancyStartDate": "2025-03-05" }
+}
 
